@@ -18,31 +18,31 @@
         />
 
     <EditText
-        android:id="@+id/usernameID"
+        android:id="@+id/idtextID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="username"
+        android:hint="Enter ID"
         android:gravity="center"
         android:textSize="20sp" />
     <EditText
-        android:id="@+id/emailID"
+        android:id="@+id/usernameID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="email"
+        android:hint="Enter Username"
         android:gravity="center"
         android:textSize="20sp" />
     <EditText
         android:id="@+id/passwordID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="password"
+        android:hint="Enter Password"
         android:gravity="center"
         android:textSize="20sp" />
     <EditText
-        android:id="@+id/username"
+        android:id="@+id/emailID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="username"
+        android:hint="Enter Email"
         android:gravity="center"
         android:textSize="20sp" />
     <Button
